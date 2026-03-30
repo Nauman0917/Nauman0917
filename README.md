@@ -6,7 +6,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nauman-asif-965205194/)
 [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
@@ -24,7 +23,6 @@ I'm a passionate **Full Stack Web Developer** with **3+ years of hands-on experi
 - ⚡ Experienced in **AWS**, **Azure**, **Docker**, and serverless architectures
 - 🤝 Open to collaborating on **innovative projects** and **open-source contributions**
 - 💬 Ask me about **Laravel**, **Next.js**, **NestJS**, **React**, **Node.js** or anything full-stack!
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/muhammad-nauman-asif-965205194/)**
 
 ---
 
